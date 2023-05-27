@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<img src="https://raw.githubusercontent.com/Ragdata/media/master/banner/Ragdata-RedEyed-2.png" alt="Bash Bits Modular Bash Library" />
+<img src="https://raw.githubusercontent.com/Ragdata/media/master/project/ragsworks/Social-800x400.png" alt="RagsWorks - Reusable Actions and Workflows" />
 
 [Ragdata's Reusable Workflows](https://github.com/ragworks)
 

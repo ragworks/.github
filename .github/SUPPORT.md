@@ -55,7 +55,7 @@ If you have any questions, join the [`Discord Server`][discord]
 <a href="https://ragdata.substack.com/" target="_blank"><img alt="SubStack" src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=Substack&logoColor=white" /></a>
 <a href="https://www.facebook.com/RedEyedSoftware/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 
-[![Discord](https://img.shields.io/discord/1067204348251230298?labelColor=5865F2&label=RedEyed%20Software%20&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/54PkrM7TKq)
+[![Discord](https://img.shields.io/discord/1067204348251230298?labelColor=5865F2&label=RedEyed%20Software%20&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/s6gZZUc67y)
 
 
 </div>
@@ -70,6 +70,6 @@ If you have any questions, join the [`Discord Server`][discord]
 [github-ragdata]: https://github.com/ragdata
 [github-redeyed]: https://github.com/redeyed-rpg
 [github-aevernet]: https://github.com/aevernet
-[discord]: https://discord.gg/54PkrM7TKq
+[discord]: https://discord.gg/s6gZZUc67y
 [coc]: https://github.com/Ragdata/.github/blob/master/.github/CODE_OF_CONDUCT.md
 [issues]: https://github.com/bash-bits/bash-bits/issues

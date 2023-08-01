@@ -1,6 +1,7 @@
 .archive/
 .idea/
 !/.idea/icon.svg
+!/template/.idea/icon.svg
 *.iml
 
 .env
